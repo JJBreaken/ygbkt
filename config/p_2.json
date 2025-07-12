@@ -1,0 +1,42 @@
+{
+  "id": 2,
+  "name": "有机精华液",
+  "saleTitle": "纯天然植物提取，温和有效，适合敏感肌",
+  "promotionText": "新品上市，体验天然护肤的奇迹",
+  "currentPrice": 199,
+  "originalPrice": 249,
+  "discount": "20%",
+  "image": "/gloves-holes.jpg",
+  "promotions": [
+    "买2送1 限时优惠",
+    "新客专享9折",
+    "单瓶特价 ¥199"
+  ],
+  "scrollImgs": [
+    "/gloves-holes.jpg",
+    "/gloves-holes.jpg",
+    "/gloves-holes.jpg",
+    "/gloves-holes.jpg"
+  ],
+  "detailImages": [
+    "/gloves-holes.jpg",
+    "/gloves-holes.jpg"
+  ],
+  "specifications": "/gloves-holes.jpg",
+  "category": "护肤",
+  "rating": 4.9,
+  "reviews": 89,
+  "favorites": 1850,
+  "features": [
+    "有机认证原料",
+    "高浓度活性成分",
+    "敏感肌专用配方",
+    "快速吸收不油腻",
+    "长效保湿滋润"
+  ],
+  "reviewsFile": "coffee_reviews",
+  "customer_service": [
+    "Service time：Monday to Sunday 09:30-18:00",
+    "Customer service mailbox：service@admsale.com"
+  ]
+} 
